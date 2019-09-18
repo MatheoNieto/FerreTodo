@@ -1,0 +1,23 @@
+#contentable {
+    overflow: auto;
+    height: 70vh;
+    
+}
+
+table tr th {
+    text-align: center;
+}
+
+table tr td {
+    text-align: center;
+}
+
+.ocultar {
+    display: none
+}
+#mdlaaddd{
+    z-index: 1063;
+}
+.swal2-container{
+    z-index: 1000000;
+}

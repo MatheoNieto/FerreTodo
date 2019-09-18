@@ -1,0 +1,14 @@
+#divtable {
+    overflow: hidden;
+    height: 70vh;
+    overflow-y: auto;
+}
+.ocultasr{
+    display: none;
+}
+#mdlaaddd{
+    z-index: 1063;
+}
+.swal2-container{
+    z-index: 1000000;
+}

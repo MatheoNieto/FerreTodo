@@ -1,0 +1,38 @@
+.btn-light {
+    border: 1px solid black
+}
+
+#btnaddpro {
+    border: none;
+}
+
+#addedproducto {
+    overflow: hidden;
+    height: 60vh;
+    overflow-y: auto;
+    padding: 20px;
+}
+
+#resumentventa {
+    overflow: hidden;
+    margin-top: 10px;
+    height: 60vh;
+    border: 1px solid black;
+    padding: 10px 20px;
+    overflow-y: auto;
+}
+
+#contentmain {
+    margin-top: -5vh;
+}
+
+
+.platasub {
+    color: red;
+}
+
+#contselest a[role="option"]:hover{
+    background-color: #CEFFC4;
+    color: black;
+    
+}
