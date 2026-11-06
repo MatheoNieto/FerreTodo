@@ -1,6 +1,6 @@
 # [Plataforma - Ferreterias](http://localhost/Dropbox/ferretodo/)
 
-Esta plataforma se creo para la gestion de los productos para la ferreteria la 44 de dosquebradas
+Esta plataforma se creo para la gestion de los productos para la ferreteria
 ## Preview
 
 [![Control de monitores img](https://www.dropbox.com/preview/Capturas%20de%20pantalla/SharedScreenshot.jpg)
